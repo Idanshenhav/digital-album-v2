@@ -18,7 +18,7 @@ A Claude skill that turns a shared Google Photos album of a trip into a printed 
 
 It never orders, never enters passwords and never edits a photo with generative AI.
 
-### ⬇️ [Download digital-album.zip](https://github.com/Idanshenhav/digital-album/releases/latest/download/digital-album.zip)
+### ⬇️ [Download digital-album.zip](https://github.com/Idanshenhav/digital-album-v2/releases/latest/download/digital-album.zip)
 
 ![The album plan: counts, cover and layout rules](docs/plan-overview.jpg)
 
@@ -30,7 +30,7 @@ It never orders, never enters passwords and never edits a photo with generative 
 
 ## Install
 
-**Claude desktop / Cowork:** [download digital-album.zip](https://github.com/Idanshenhav/digital-album/releases/latest/download/digital-album.zip), then go to Settings → Capabilities → Skills → upload the zip.
+**Claude desktop / Cowork:** [download digital-album.zip](https://github.com/Idanshenhav/digital-album-v2/releases/latest/download/digital-album.zip), then go to Settings → Capabilities → Skills → upload the zip.
 
 **Claude Code:** copy the `digital-album` folder into `~/.claude/skills/`.
 
@@ -70,7 +70,7 @@ Open an [Issue](../../issues), and we'll answer there.
 - מוסיף קודי QR לסרטונים.
 - בודק הכול לפני ההזמנה.
 
-**התקנה:** [מורידים את digital-album.zip](https://github.com/Idanshenhav/digital-album/releases/latest/download/digital-album.zip), ואז ב-Claude: Settings → Capabilities → Skills → העלאה.
+**התקנה:** [מורידים את digital-album.zip](https://github.com/Idanshenhav/digital-album-v2/releases/latest/download/digital-album.zip), ואז ב-Claude: Settings → Capabilities → Skills → העלאה.
 אחר כך כותבים: "תכין אלבום מהקישור הזה: …"
 
 **רישיון:** השימוש האישי בגרסה 2.0 חופשי. שימוש מסחרי — כולל מכירת הסקיל, מוצר שמבוסס עליו, עבודה בתשלום עבור לקוחות או שימוש בחברה מסחרית — דורש רישיון נפרד בכתב. ניתן לשלם לבית דפוס כדי להדפיס אלבום אישי. לפרטים: [תנאי הרישיון](LICENSE) ו-[שימוש מסחרי](COMMERCIAL-LICENSE.md).
